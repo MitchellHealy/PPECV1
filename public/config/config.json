@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd539cd9ffe8B2C73743A2d170dd728b5216ee09E",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd539cd9ffe8b2c73743a2d170dd728b5216ee09e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Poly Python Eggs Collection",
+  "SYMBOL": "PPECNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/poly-python-egg-collection",
+  "SHOW_BACKGROUND": true
+}
